@@ -208,13 +208,15 @@ a {
     opacity: 1!important;
     border-radius: 5px;
 }
-
-.list-port ul{
-    list-style: none;
-    display: flex;
-    justify-content: center;
+.my-img {
+    margin-top: 25px;
 }
-.list-port ul li{
+
+.list-port {
+    width: 50%;
+    margin: auto;
+}
+.list-port .row div{
     padding: 10px;
 }
 
