@@ -99,7 +99,7 @@ var _CONTENT = [
 	" Programmer.", 
 	" YouTuber.", 
 	" Developer.", 
-	" Web Designer.",
+	" Designer.",
   " Freelancer."
 ];
 
